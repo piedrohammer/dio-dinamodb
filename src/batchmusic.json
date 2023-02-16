@@ -1,0 +1,64 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Kendrick Lamar"},
+                  "SongTitle": {"S": "Money Trees"},
+                  "AlbumTitle": {"S": "Good Kid, M.A.A.D City"},
+                  "SongYear": {"S": "2012"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Kendrick Lamar"},
+                "SongTitle": {"S": "Rich Spirit"},
+                "AlbumTitle": {"S": "Mr. Morale & the Big Steppers"},
+                "SongYear": {"S": "2022"}
+              }
+          }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "J.Cole"},
+                  "SongTitle": {"S": "No Role Modelz"},
+                  "AlbumTitle": {"S": "2014 Forest Hills Drive"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "J.Cole"},
+                "SongTitle": {"S": "Wet Dreamz"},
+                "AlbumTitle": {"S": "2014 Forest Hills Drive"},
+                "SongYear": {"S": "2014"}
+              }
+          }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Bk"},
+                  "SongTitle": {"S": "Em nome do que eu sinto"},
+                  "AlbumTitle": {"S": "Ícarus"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Bk"},
+                "SongTitle": {"S": "Amores, Vícios e Obsessões"},
+                "AlbumTitle": {"S": "Castelos & Ruínas"},
+                "SongYear": {"S": "2016"}
+              }
+          }
+        }
+      ]
+}
